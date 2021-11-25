@@ -1,0 +1,44 @@
+{
+	"id": "5c1b8a21-47c4-4565-9be4-76de417d10b3",
+	"name": "env_group_24",
+	"values": [
+		{
+			"key": "url",
+			"value": "http://162.55.220.72:5005",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "name",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "age",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "salary",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "u_salary_1_5_year",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "Cur_ID",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2021-11-25T19:40:30.543Z",
+	"_postman_exported_using": "Postman/9.2.0"
+}
